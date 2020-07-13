@@ -1,2 +1,2 @@
-# ml-diabetes
+# diabetes-ml
  
